@@ -1,5 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fd0fcc86-a940-4892-8210-08193ac9d75a/deploy-status)](https://app.netlify.com/sites/socialproofsectionm/deploys)
 
-My solution (https://socialproofsectionm.netlify.app/)
+##My solution (https://socialproofsectionm.netlify.app/)
 
 ### 🛠 Tecnologias
 
