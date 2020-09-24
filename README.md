@@ -1,6 +1,13 @@
 
 My solution (https://socialproofsectionm.netlify.app/)
 
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [HTML]
+- [CSS]
+
 # Frontend Mentor - Social proof section
 
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
