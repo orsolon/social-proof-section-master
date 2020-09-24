@@ -1,0 +1,160 @@
+* {
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background:  url("images/bg-pattern-top-desktop.svg") no-repeat left top, url("images/bg-pattern-bottom-desktop.svg") no-repeat right bottom;
+    display: flex;
+    justify-content: center;
+    font-family: 'Merriweather Sans', sans-serif;
+}  
+
+.container {
+    max-width: 1120px;
+
+}
+
+.top {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 1rem;
+
+}
+
+h1{
+    color: hsl(300, 43%, 22%);
+    font-size: 2.3rem;
+    width: 370px;
+    margin-bottom: .5rem;
+    
+    
+}
+
+.text-title {
+    width: 370px;
+}
+
+
+.text_left {
+    color: hsl(300, 48%, 14%);
+    font-size: 1rem;
+   text-align: justify;
+   margin-top: 1.5rem ;
+}
+
+.right {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-left: auto;
+   
+}
+
+.star {
+    background-color: hsl(300, 24%, 96%);;
+    border-radius: 8px;
+    width: 21rem;
+    margin-top: 1rem;
+    padding: .6rem;
+    display: flex;
+    
+}
+
+.icon_1 {
+    position: relative;
+    left: 100px
+}
+
+.icon_2 {
+    position: relative;
+    left: 120px
+}
+
+.icon_3 {
+    position: relative;
+    left: 150px
+}
+
+.top .star {
+    display: flex;
+    align-items: flex-end;
+}
+
+
+.text_star{
+    color: hsl(300, 43%, 22%);
+    font-size: .8rem;
+    font-weight: bold;
+    margin-left: .9rem;
+}
+
+
+.card-group div{
+    display: inline-block;   
+    margin: 3rem 1rem;
+}
+
+.card-item {
+    background-color: hsl(300, 43%, 22%);
+    border-radius: 8px;
+    width: 19rem;
+    height: 13rem;
+    padding: 2rem;
+    
+}
+
+.profile_img {
+    border-radius: 100%;
+    width: 2rem;
+    float: left;
+}
+
+.profile_name {
+    color: white;
+    padding-left: 3.5rem;
+    font-size: .7rem;
+} 
+
+.buyer {
+    color: hsl(333, 80%, 67%);
+    padding-left: 3.5rem;
+    font-size: .7rem;
+}
+
+.card-group {
+    display: flex;
+}
+
+.reviewed {
+    color: white;
+    margin-top: 2.1rem;
+    font-size: .8rem;
+    font-weight: 300;
+}
+
+.card-item:nth-child(1) {
+    position: relative; 
+
+}
+
+.card-item:nth-child(2) {
+    position: relative; 
+    top: 20px;
+}
+    
+
+.card-item:nth-child(3) {
+    position: relative; 
+    top: 30px;
+}
+    
+.attribution {
+    display: flex;
+    justify-content: center;
+    font-size: .7rem;
+}
+
